@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category    Rom
+ * @package     Rom_AbandonedCartsFix
+ * @copyright   Copyright (c) 2016 ROM - Agence de communication (http://www.rom.fr/)
+ * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ * @author      André Herrn <andre.herrn@rom.fr>
+ */
+-->
+<config>
+    <modules>
+        <Rom_AbandonedCartsFix>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Reports />
+            </depends>
+        </Rom_AbandonedCartsFix>
+    </modules>
+</config>

@@ -1,0 +1,13 @@
+{
+  "name": "rom/abandonedcartsfix",
+  "license": ["OSL-3.0"],
+  "type": "magento-module",
+  "description": "This module fixes the Abandoned carts problem in CE 1.9.2.2, decribed here: http://magento.stackexchange.com/questions/98641/abandoned-carts-dont-show-in-reports-magento-1-9-2-2",
+  "authors":[{
+    "name": "André Herrn",
+    "email": "andre.herrn@rom.fr"
+  }],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
